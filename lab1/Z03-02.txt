@@ -1,0 +1,5 @@
+@echo off
+echo --name: %0
+echo --creation time: %~t0
+echo --path: %~f0
+pause
